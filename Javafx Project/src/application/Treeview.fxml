@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.72" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainControler">
+   <children>
+      <TreeView fx:id="treeview" layoutX="22.0" layoutY="70.0" onMouseClicked="#mousClick" prefHeight="511.0" prefWidth="258.0" />
+      <MenuBar layoutX="24.0" layoutY="21.0" onMouseClicked="#handle">
+        <menus>
+          <Menu mnemonicParsing="false" onAction="#handle" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#handle" text="Add Entry" />
+                  <MenuItem mnemonicParsing="false" onAction="#handle" text="Add Mobile" />
+                  <MenuItem mnemonicParsing="false" onAction="#handle" text="Add Employee" />
+                  <MenuItem mnemonicParsing="false" text="Change Passowrd" />
+                  <MenuItem mnemonicParsing="false" text="Change Price" />
+                  <MenuItem mnemonicParsing="false" text="Employees Record" />
+                  <MenuItem mnemonicParsing="false" text="Entries Record" />
+                  <MenuItem mnemonicParsing="false" text="Log In" />
+                  <MenuItem mnemonicParsing="false" text="Main Window" />
+                  <MenuItem mnemonicParsing="false" text="Mobiles Data" />
+                  <MenuItem mnemonicParsing="false" text="Modify Entries" />
+                  <MenuItem mnemonicParsing="false" text="Search Entries" />
+                  <MenuItem mnemonicParsing="false" text="Search Employees" />
+                  <MenuItem mnemonicParsing="false" text="Search Mobiles" />
+                  <MenuItem mnemonicParsing="false" text="Stock" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="About Software" />
+          <Menu mnemonicParsing="false" text="Contact" />
+        </menus>
+      </MenuBar>
+      <ImageView fx:id="imview" fitHeight="220.0" fitWidth="540.0" layoutX="295.0" layoutY="67.0" pickOnBounds="true" preserveRatio="true" />
+      <TextArea fx:id="area" layoutX="293.0" layoutY="304.0" prefHeight="275.0" prefWidth="540.0" />
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</AnchorPane>
