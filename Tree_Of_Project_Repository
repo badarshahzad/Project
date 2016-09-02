@@ -1,0 +1,347 @@
+├── Examples for GUI
+│   ├── 330Checkout.jpg
+│   ├── 350ItemEntry.jpg
+│   ├── 536c5126f5f99ae697a2306b016a2d24.jpg
+│   ├── 92dab2f69bf1db02912d6532c4e974e9.jpg
+│   ├── bestExample_1.png
+│   ├── DailyBookMoneyTotals.jpg
+│   ├── fastentry.png
+│   ├── fx-contacts-dark.png
+│   └── menu_item_master.jpg
+├── FranchiseProject
+│   ├── bin
+│   │   ├── BusinessLogic
+│   │   │   └── PlayWithDataBase.class
+│   │   ├── DataBase
+│   │   │   └── sendToDatabase.class
+│   │   └── FrontEnd
+│   │       ├── AddEmployee$1.class
+│   │       ├── AddEmployee$2.class
+│   │       ├── AddEmployee.class
+│   │       ├── AddEmployee.css
+│   │       ├── addEmployee.png
+│   │       ├── AddEntry$1.class
+│   │       ├── AddEntry$2.class
+│   │       ├── AddEntry$3.class
+│   │       ├── AddEntry$4.class
+│   │       ├── AddEntry$5.class
+│   │       ├── AddEntry$6.class
+│   │       ├── AddEntry.class
+│   │       ├── AddEntry.css
+│   │       ├── addEntry.png
+│   │       ├── AddMobiles$1.class
+│   │       ├── AddMobiles$2.class
+│   │       ├── AddMobiles.class
+│   │       ├── AddMobiles.png
+│   │       ├── Append.png
+│   │       ├── ChangePassword.class
+│   │       ├── changePassword.png
+│   │       ├── ChangePrice$10.class
+│   │       ├── ChangePrice$11.class
+│   │       ├── ChangePrice$12.class
+│   │       ├── ChangePrice$13.class
+│   │       ├── ChangePrice$14.class
+│   │       ├── ChangePrice$15.class
+│   │       ├── ChangePrice$16.class
+│   │       ├── ChangePrice$17.class
+│   │       ├── ChangePrice$18.class
+│   │       ├── ChangePrice$1.class
+│   │       ├── ChangePrice$2.class
+│   │       ├── ChangePrice$3.class
+│   │       ├── ChangePrice$4.class
+│   │       ├── ChangePrice$5.class
+│   │       ├── ChangePrice$6.class
+│   │       ├── ChangePrice$7.class
+│   │       ├── ChangePrice$8.class
+│   │       ├── ChangePrice$9.class
+│   │       ├── ChangePrice.class
+│   │       ├── customer.png
+│   │       ├── EmployeeRecord.css
+│   │       ├── EmployeeRecord.png
+│   │       ├── EmployeesRecord.class
+│   │       ├── EmployeesRecord$Person.class
+│   │       ├── EmployeesRecord.png
+│   │       ├── EntriesRecord$1.class
+│   │       ├── EntriesRecord.class
+│   │       ├── EntriesRecord$Person.class
+│   │       ├── Filing.class
+│   │       ├── Help.png
+│   │       ├── Home.css
+│   │       ├── home.png
+│   │       ├── LogIn.class
+│   │       ├── LogIn.css
+│   │       ├── logout.png
+│   │       ├── MainWindow$10.class
+│   │       ├── MainWindow$11.class
+│   │       ├── MainWindow$12.class
+│   │       ├── MainWindow$13.class
+│   │       ├── MainWindow$14.class
+│   │       ├── MainWindow$1.class
+│   │       ├── MainWindow$2.class
+│   │       ├── MainWindow$3.class
+│   │       ├── MainWindow$4.class
+│   │       ├── MainWindow$5.class
+│   │       ├── MainWindow$6.class
+│   │       ├── MainWindow$7.class
+│   │       ├── MainWindow$8.class
+│   │       ├── MainWindow$9.class
+│   │       ├── MainWindow.class
+│   │       ├── MobilesData.class
+│   │       ├── MobilesData$Mobile.class
+│   │       ├── MobilesRecord.png
+│   │       ├── modification.png
+│   │       ├── ModifyEntry$1.class
+│   │       ├── ModifyEntry$2.class
+│   │       ├── ModifyEntry$3.class
+│   │       ├── ModifyEntry$4.class
+│   │       ├── ModifyEntry$5.class
+│   │       ├── ModifyEntry$6.class
+│   │       ├── ModifyEntry.class
+│   │       ├── price.png
+│   │       ├── record.png
+│   │       ├── SearchEmployee$1.class
+│   │       ├── SearchEmployee$2.class
+│   │       ├── SearchEmployee$3.class
+│   │       ├── SearchEmployee.class
+│   │       ├── SearchEmployee.png
+│   │       ├── SearchEntries$1.class
+│   │       ├── SearchEntries$2.class
+│   │       ├── SearchEntries$3.class
+│   │       ├── SearchEntries$4.class
+│   │       ├── SearchEntries$5.class
+│   │       ├── SearchEntries$6$1.class
+│   │       ├── SearchEntries$6.class
+│   │       ├── SearchEntries$7$1.class
+│   │       ├── SearchEntries$7.class
+│   │       ├── SearchEntries$8$1.class
+│   │       ├── SearchEntries$8.class
+│   │       ├── SearchEntries.class
+│   │       ├── SearchEntry.png
+│   │       ├── Search-icon.png
+│   │       ├── SearchMobile$1.class
+│   │       ├── SearchMobile$2.class
+│   │       ├── SearchMobile$3.class
+│   │       ├── SearchMobile.class
+│   │       ├── SearchMobile.png
+│   │       ├── Search.png
+│   │       ├── setting.png
+│   │       ├── Stock$1.class
+│   │       ├── Stock$2.class
+│   │       ├── Stock$3.class
+│   │       ├── Stock$4.class
+│   │       ├── Stock.class
+│   │       ├── Stock.png
+│   │       └── Telenor.png
+│   ├── hs_err_pid13704.log
+│   └── src
+│       ├── BusinessLogic
+│       │   └── PlayWithDataBase.java
+│       ├── DataBase
+│       │   └── sendToDatabase.java
+│       └── FrontEnd
+│           ├── AddEmployee.java
+│           ├── AddEntry.java
+│           ├── AddMobiles.java
+│           ├── ChangePassword.java
+│           ├── ChangePrice.java
+│           ├── EmployeesRecord.java
+│           ├── EntriesRecord.java
+│           ├── Filing.java
+│           ├── LogIn.java
+│           ├── MainWindow.java
+│           ├── MobilesData.java
+│           ├── ModifyEntry.java
+│           ├── SearchEmployee.java
+│           ├── SearchEntries.java
+│           ├── SearchMobile.java
+│           └── Stock.java
+├── Help-Menu
+│   ├── Icons
+│   │   ├── AddEmployee.png
+│   │   ├── AddEntry.png
+│   │   ├── AddMobile.png
+│   │   ├── AddStock.ico
+│   │   ├── AddStock.png
+│   │   ├── AppendData.png
+│   │   ├── ChangePassword.png
+│   │   ├── ChangePrice.png
+│   │   ├── EmployeesRecord.png
+│   │   ├── EntriesRecord.png
+│   │   ├── Help.png
+│   │   ├── MobilesRecord.png
+│   │   ├── Record.png
+│   │   ├── Search.png
+│   │   └── Setting.png
+│   ├── Javafx Project
+│   │   ├── bin
+│   │   │   ├── application
+│   │   │   │   ├── application.css
+│   │   │   │   ├── Main.class
+│   │   │   │   ├── MainControler.class
+│   │   │   │   └── Treeview.fxml
+│   │   │   └── img
+│   │   │       ├── aboutSoftware.png
+│   │   │       ├── addEmployee.png
+│   │   │       ├── addEntry.png
+│   │   │       ├── addMobile.png
+│   │   │       ├── changePassword.png
+│   │   │       ├── changeprice.png
+│   │   │       ├── contactUs.png
+│   │   │       ├── employeeRecord.png
+│   │   │       ├── help.png
+│   │   │       ├── images.png
+│   │   │       ├── login.png
+│   │   │       ├── maingwindow.png
+│   │   │       ├── mobileRecord.png
+│   │   │       ├── modifyentry.png
+│   │   │       ├── record.png
+│   │   │       ├── searchEmployee.png
+│   │   │       ├── searchMobile.png
+│   │   │       ├── search.png
+│   │   │       ├── searchspecific.png
+│   │   │       ├── setting.png
+│   │   │       └── stock.png
+│   │   ├── build.fxbuild
+│   │   └── src
+│   │       ├── application
+│   │       │   ├── application.css
+│   │       │   ├── MainControler.java
+│   │       │   ├── Main.java
+│   │       │   └── Treeview.fxml
+│   │       └── img
+│   │           ├── aboutSoftware.png
+│   │           ├── addEmployee.png
+│   │           ├── addEntry.png
+│   │           ├── addMobile.png
+│   │           ├── changePassword.png
+│   │           ├── changeprice.png
+│   │           ├── contactUs.png
+│   │           ├── employeeRecord.png
+│   │           ├── help.png
+│   │           ├── images.png
+│   │           ├── login.png
+│   │           ├── maingwindow.png
+│   │           ├── mobileRecord.png
+│   │           ├── modifyentry.png
+│   │           ├── record.png
+│   │           ├── searchEmployee.png
+│   │           ├── searchMobile.png
+│   │           ├── search.png
+│   │           ├── searchspecific.png
+│   │           ├── setting.png
+│   │           └── stock.png
+│   ├── README.md
+│   └── TabPane
+│       ├── bin
+│       │   ├── application
+│       │   │   ├── AddEntryController.class
+│       │   │   ├── AddEntryLayout.fxml
+│       │   │   ├── Layout.fxml
+│       │   │   ├── Main.class
+│       │   │   ├── MainController.class
+│       │   │   ├── Main.css
+│       │   │   └── MainWindowLayout.fxml
+│       │   └── images
+│       │       ├── AddEmployee.png
+│       │       ├── AddEntry.png
+│       │       ├── AddMobile.png
+│       │       ├── AddStock.png
+│       │       ├── AppendData.png
+│       │       ├── ChangePassword.png
+│       │       ├── ChangePrice.png
+│       │       ├── EmployeesRecord.png
+│       │       ├── EntriesRecord.png
+│       │       ├── Help.png
+│       │       ├── MobilesRecord.png
+│       │       ├── Record.png
+│       │       ├── Search.png
+│       │       └── Setting.png
+│       ├── build.fxbuild
+│       └── src
+│           ├── application
+│           │   ├── AddEntryController.java
+│           │   ├── AddEntryLayout.fxml
+│           │   ├── Layout.fxml
+│           │   ├── MainController.java
+│           │   ├── Main.css
+│           │   ├── Main.java
+│           │   └── MainWindowLayout.fxml
+│           └── images
+│               ├── AddEmployee.png
+│               ├── AddEntry.png
+│               ├── AddMobile.png
+│               ├── AddStock.png
+│               ├── AppendData.png
+│               ├── ChangePassword.png
+│               ├── ChangePrice.png
+│               ├── EmployeesRecord.png
+│               ├── EntriesRecord.png
+│               ├── Help.png
+│               ├── MobilesRecord.png
+│               ├── Record.png
+│               ├── Search.png
+│               └── Setting.png
+├── Images and CSS Files
+│   ├── AddEmployee.css
+│   ├── addEmployee.png
+│   ├── AddEntry.css
+│   ├── addEntry.png
+│   ├── AddMobiles.png
+│   ├── Append.png
+│   ├── changePassword.png
+│   ├── customer.png
+│   ├── EmployeeRecord.css
+│   ├── EmployeeRecord.png
+│   ├── EmployeesRecord.png
+│   ├── Help.png
+│   ├── Home.css
+│   ├── home.png
+│   ├── LogIn.css
+│   ├── logout.png
+│   ├── MobilesRecord.png
+│   ├── modification.png
+│   ├── price.png
+│   ├── record.png
+│   ├── SearchEmployee.png
+│   ├── SearchEntry.png
+│   ├── Search-icon.png
+│   ├── SearchMobile.png
+│   ├── Search.png
+│   ├── setting.png
+│   ├── Stock.png
+│   └── Telenor.png
+├── Javafx Project
+│   ├── build.fxbuild
+│   └── src
+│       ├── application
+│       │   ├── application.css
+│       │   ├── MainControler.java
+│       │   ├── Main.java
+│       │   └── Treeview.fxml
+│       └── img
+│           ├── aboutSoftware.png
+│           ├── addEmployee.png
+│           ├── addEntry.png
+│           ├── addMobile.png
+│           ├── changePassword.png
+│           ├── changeprice.png
+│           ├── contactUs.png
+│           ├── employeeRecord.png
+│           ├── help.png
+│           ├── images.png
+│           ├── login.png
+│           ├── maingwindow.png
+│           ├── mobileRecord.png
+│           ├── modifyentry.png
+│           ├── record.png
+│           ├── searchEmployee.png
+│           ├── searchMobile.png
+│           ├── search.png
+│           ├── searchspecific.png
+│           ├── setting.png
+│           └── stock.png
+├── New Requirement for software
+├── README.md
+└── XML Add Entry
+    └── addEntry.fxml
+
