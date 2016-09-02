@@ -1,0 +1,19 @@
+.label{
+
+	-fx-font-size: 12px;
+	-fx-font-weight: bold;
+}
+
+.table-row-cell:selected {
+   -fx-background-color: black; 
+}
+
+.table-row-cell:selected .text {
+       -fx-fill: white ;
+       -fx-font-weight: bold;	
+}
+
+.table-row-cell .text {
+       -fx-font-weight: bold;	
+}
+
